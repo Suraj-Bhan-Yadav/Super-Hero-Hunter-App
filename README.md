@@ -3,7 +3,7 @@ A simple Super hero Hunter application where in users can search for their favou
 
 The application is developed using Vanilla JS and styled using CSS3, it fetches all the data from the Super Hero API and displays them according to the searched query.
 
-Deployed link to the application : <br>
+Deployed link to the application :https://suraj-bhan-yadav.github.io/Super-Hero-Hunter-App/index.html <br>
 Link to the API being used to fetch the data : https://superheroapi.com
 
 <img width="1792" alt="Screenshot 2023-02-27 at 2 26 00 PM" src="Screenshot (71).png">
